@@ -22,3 +22,7 @@ lessc input.less output.css
 <link rel="stylesheet/less" type="text/css" href="styles.less" />
 <script src="https://cdn.jsdelivr.net/npm/less@4.1.1"></script>
 ```
+
+## Live, editable demo
+
+https://codepen.io/hchiam/pen/ZEaQZbO
